@@ -63,7 +63,7 @@ npm install
 cp .env.example .env
 
 # Update .env with MongoDB URI (already configured)
-# MONGODB_URI=mongodb+srv://ndakumarsatyam_db_user:jALE8bVfoJ8jFbTE@cluster0.75vqztf.mongodb.net/?appName=Cluster0
+# MONGODB_URI
 
 # Start development server
 npm run dev
